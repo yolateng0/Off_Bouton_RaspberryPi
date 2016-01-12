@@ -8,4 +8,4 @@ For this whole instructable I'll assume you're in your home directory, so if you
 
 # ls
 
-# mv Off_Bouton_RaspberryPi.py to .off_button.py 
+# mv offboutonrasp.py  .off_button.py 
