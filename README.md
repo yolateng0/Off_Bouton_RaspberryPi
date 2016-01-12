@@ -6,4 +6,6 @@ For this whole instructable I'll assume you're in your home directory, so if you
 
 # cd /home
 
-# sudo nano 
+# ls
+
+change name by " .off_button.py " 
